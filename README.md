@@ -3,10 +3,10 @@ Bi-Weekly Coding Challenge #3
 
 # Golas -- >
 
-* 1 point: The program opens and runs without a compiler error. The program prompts the user for at least two whole numbers. 
-* 1.5 points: The program can perform addition and subtraction with at least two whole numbers. 
-* 1.5 points: The program can perform multiplication and addition with at least two whole numbers. 
-* 1 point: The program prints out the answer to computations and re-prompts the user asking if they would like to perform additional computations. 
+* ✅ 1 point: The program opens and runs without a compiler error. The program prompts the user for at least two whole numbers. 
+* ✅ 1.5 points: The program can perform addition and subtraction with at least two whole numbers. 
+* ✅ 1.5 points: The program can perform multiplication and addition with at least two whole numbers. 
+* ✅ 1 point: The program prints out the answer to computations and re-prompts the user asking if they would like to perform additional computations. 
 
 # Extra Featuers -- >
 
