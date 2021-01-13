@@ -1,7 +1,7 @@
 # Calculator2020
 Bi-Weekly Coding Challenge #3
 
-# Golas -- >
+# Goals -- >
 
 * ✅ 1 point: The program opens and runs without a compiler error. The program prompts the user for at least two whole numbers. 
 * ✅ 1.5 points: The program can perform addition and subtraction with at least two whole numbers. 
